@@ -1,0 +1,55 @@
+name: Daily LLM Pricing Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run spider
+        run: python -m src.spider
+
+      - name: Run processor
+        run: python -m src.process
+
+      - name: Check latest_prices.json exists
+        run: |
+          if [ ! -s "data/latest_prices.json" ]; then
+            echo "latest_prices.json is missing or empty. Failing step."
+            exit 1
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- data/latest_prices.json; then
+            echo "No changes in data/latest_prices.json; skipping commit."
+            exit 0
+          fi
+
+          git add data/latest_prices.json data/raw_prices.json data/crawl_errors.json || true
+          git commit -m "chore: update LLM pricing"
+          git push
+

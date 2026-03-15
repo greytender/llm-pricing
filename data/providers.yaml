@@ -1,0 +1,60 @@
+# Configuration of providers and their pricing pages.
+#
+# Each provider entry includes:
+# - name: Provider display name
+# - url: Official pricing page URL
+# - css_selector: CSS selector to locate the main pricing table(s)
+
+- name: OpenAI
+  url: https://openai.com/pricing
+  css_selector: "table"
+
+- name: Anthropic
+  url: https://www.anthropic.com/pricing
+  css_selector: "table"
+
+- name: Google
+  url: https://cloud.google.com/vertex-ai/generative-ai/pricing
+  css_selector: "table"
+
+# Configuration of providers and their pricing pages.
+#
+# You can extend this list or adjust URLs/parsers later without changing code.
+
+- company: OpenAI
+  url: https://platform.openai.com/docs/pricing
+  parser: custom_openai
+  delay: 2.0
+  css_selectors:
+    table: "table"
+    header_row: "thead tr"
+    body_rows: "tbody tr"
+
+- company: Anthropic
+  url: https://www.anthropic.com/pricing
+  parser: table
+  delay: 2.0
+  css_selectors:
+    table: "table"
+    header_row: "thead tr"
+    body_rows: "tbody tr"
+
+- company: Google
+  # Gemini API pricing; URL/structure may evolve over time.
+  url: https://ai.google.dev/pricing
+  parser: table
+  delay: 2.0
+  css_selectors:
+    table: "table"
+    header_row: "thead tr"
+    body_rows: "tbody tr"
+
+- company: Cohere
+  url: https://cohere.com/pricing
+  parser: table
+  delay: 2.0
+  css_selectors:
+    table: "table"
+    header_row: "thead tr"
+    body_rows: "tbody tr"
+

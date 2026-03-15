@@ -1,0 +1,10 @@
+[
+  {
+    "company": "OpenAI",
+    "error": "Max retries exceeded for https://openai.com/pricing: 403 Client Error: Forbidden for url: https://openai.com/pricing"
+  },
+  {
+    "company": "OpenAI",
+    "error": "Max retries exceeded for https://platform.openai.com/docs/pricing: 403 Client Error: Forbidden for url: https://platform.openai.com/docs/pricing"
+  }
+]
