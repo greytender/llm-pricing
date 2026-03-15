@@ -29,6 +29,18 @@ jobs:
       - name: Run spider
         run: python -m src.spider
 
+      # 👇 添加下面这个步骤
+      - name: Process data
+        run: python src/process.py
+
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: $(date +%Y-%m-%d)"
+          git push
+          
       - name: Run processor
         run: python -m src.process
 
