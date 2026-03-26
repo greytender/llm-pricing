@@ -1999,6 +1999,24 @@
   },
   {
     "company": "Google",
+    "model_name": "Lyria 3 Pro",
+    "input_raw": "Text, Image",
+    "output_raw": "Full song",
+    "extra": {
+      "source": "generic-table"
+    }
+  },
+  {
+    "company": "Google",
+    "model_name": "Lyria 3",
+    "input_raw": "Text, Image",
+    "output_raw": "30 second music clip",
+    "extra": {
+      "source": "generic-table"
+    }
+  },
+  {
+    "company": "Google",
     "model_name": "Lyria 2",
     "input_raw": "Text prompt",
     "output_raw": "Music",
