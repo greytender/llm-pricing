@@ -2215,6 +2215,33 @@
   },
   {
     "company": "Google",
+    "model_name": "Gemini 3.1 Pro",
+    "input_raw": "$4.5 (/M Tok/hr)",
+    "output_raw": null,
+    "extra": {
+      "source": "generic-table"
+    }
+  },
+  {
+    "company": "Google",
+    "model_name": "Gemini 3 Flash",
+    "input_raw": "$1 (/M Tok/hr)",
+    "output_raw": null,
+    "extra": {
+      "source": "generic-table"
+    }
+  },
+  {
+    "company": "Google",
+    "model_name": "Gemini 3.1 Flash Lite",
+    "input_raw": "$1 (/M Tok/hr)",
+    "output_raw": null,
+    "extra": {
+      "source": "generic-table"
+    }
+  },
+  {
+    "company": "Google",
     "model_name": "Gemini 3 Pro",
     "input_raw": "$4.5 (/M Tok/hr)",
     "output_raw": null,

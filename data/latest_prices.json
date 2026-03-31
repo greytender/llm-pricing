@@ -1,2365 +1,2386 @@
 [
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3.1 Pro Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video, audio)",
     "input_price": "$4",
     "output_price": "$4"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$18",
     "output_price": "$18"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3.1 Flash Image Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Image Output***",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3.1 Flash-Lite Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video)",
     "input_price": "$0.25",
     "output_price": "$0.25"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (audio)",
     "input_price": "$0.50",
     "output_price": "$0.50"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$1.50",
     "output_price": "$1.50"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3 Pro Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video, audio)",
     "input_price": "$4",
     "output_price": "$4"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$18",
     "output_price": "$18"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3 Pro Image Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Image Output**",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3 Flash Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video)",
     "input_price": "$0.5",
     "output_price": "$0.5"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (audio)",
     "input_price": "$1",
     "output_price": "$1"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$3",
     "output_price": "$3"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3.1 Pro Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video, audio)",
     "input_price": "$7.2",
     "output_price": "$7.2"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$32.4",
     "output_price": "$32.4"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3.1 Flash Image Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Image Output***",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3.1 Flash-Lite Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video)",
     "input_price": "$0.45",
     "output_price": "$0.45"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (audio)",
     "input_price": "$0.9",
     "output_price": "$0.9"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$2.7",
     "output_price": "$2.7"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3 Pro Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video, audio)",
     "input_price": "$7.2",
     "output_price": "$7.2"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$32.4",
     "output_price": "$32.4"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3 Pro Image Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video, audio)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Image Output**",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3 Flash Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video)",
     "input_price": "$0.9",
     "output_price": "$0.9"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (audio)",
     "input_price": "$1.8",
     "output_price": "$1.8"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$5.40",
     "output_price": "$5.40"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3.1 Pro Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video, audio)",
     "input_price": "$2",
     "output_price": "$2"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$9",
     "output_price": "$9"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Image Output**",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3.1 Flash Image Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Image Output***",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3.1 Flash-Lite Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video)",
     "input_price": "$0.13",
     "output_price": "$0.13"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (audio)",
     "input_price": "$0.25",
     "output_price": "$0.25"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$0.75",
     "output_price": "$0.75"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3 Pro Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video, audio)",
     "input_price": "$2",
     "output_price": "$2"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$9",
     "output_price": "$9"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3 Pro Image Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Image Output**",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3 Flash Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video)",
     "input_price": "$0.25",
     "output_price": "$0.25"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (audio)",
     "input_price": "$0.5",
     "output_price": "$0.5"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$1.5",
     "output_price": "$1.5"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Pro",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video, audio)",
     "input_price": "$2.50",
     "output_price": "$2.50"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$15",
     "output_price": "$15"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Pro Computer Use-Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video, audio)",
     "input_price": "$2.5",
     "output_price": "$2.5"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$15.00",
     "output_price": "$15.00"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video)",
     "input_price": "$0.30",
     "output_price": "$0.30"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Audio Input",
     "input_price": "$1",
     "output_price": "$1"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$2.50",
     "output_price": "$2.50"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash Image",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Image output***",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash Live API",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input text tokens",
     "input_price": "$0.5",
     "output_price": "$0.5"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input audio tokens",
     "input_price": "$3",
     "output_price": "$3"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input video/image tokens",
     "input_price": "$3",
     "output_price": "$3"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M output text tokens",
     "input_price": "$2",
     "output_price": "$2"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M output audio tokens",
     "input_price": "$12",
     "output_price": "$12"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash Lite",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video)",
     "input_price": "$0.10",
     "output_price": "$0.10"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Audio Input",
     "input_price": "$0.30",
     "output_price": "$0.30"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$0.40",
     "output_price": "$0.40"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Pro",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video, audio)",
     "input_price": "$4.50",
     "output_price": "$4.50"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$27",
     "output_price": "$27"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Pro Computer Use-Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video, audio)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video)",
     "input_price": "$0.54",
     "output_price": "$0.54"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Audio Input",
     "input_price": "$1.80",
     "output_price": "$1.80"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$4.50",
     "output_price": "$4.50"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash Image",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Image output***",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash Live API",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input text tokens",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input audio tokens",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input video/image tokens",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M output text tokens",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M output audio tokens",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash Lite",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video)",
     "input_price": "$0.18",
     "output_price": "$0.18"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Audio Input",
     "input_price": "$0.54",
     "output_price": "$0.54"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$0.72",
     "output_price": "$0.72"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Pro",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video, audio)",
     "input_price": "$1.25",
     "output_price": "$1.25"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$7.5",
     "output_price": "$7.5"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Pro Computer Use-Preview",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video, audio)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video)",
     "input_price": "$0.15",
     "output_price": "$0.15"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Audio Input",
     "input_price": "$0.5",
     "output_price": "$0.5"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$1.25",
     "output_price": "$1.25"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash Image",
     "input_price": "$0.15",
     "output_price": "$0.15"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash Image",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Image output***",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input text tokens",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input audio tokens",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input video/image tokens",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M output text tokens",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M output audio tokens",
     "input_price": "N/A",
     "output_price": "N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash Lite",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input (text, image, video)",
     "input_price": "$0.05",
     "output_price": "$0.05"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Audio Input",
     "input_price": "$0.15",
     "output_price": "$0.15"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Text output (response and reasoning)",
     "input_price": "$0.2",
     "output_price": "$0.2"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.0 Flash",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M Input tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M Input audio tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M Output text tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Tuning for 1M training tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.0 Flash Image Generation",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input audio tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input video tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M output text tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M output image tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.0 Flash Live API",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input text tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input audio tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M input video/image tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M output text tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M output audio tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.0 Flash Lite",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M Input tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M Input audio tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M Output text tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Tuning for 1M training tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Grounding with Google Search",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Web Grounding for enterprise",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Grounding with your data",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Grounding with Google Maps",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.0 Flash",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input text ($/M char)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input image ($/image)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input video ($/sec)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input audio ($/sec)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Output text ($/M char)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.0 Flash Image Generation",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input text ($/M char)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input image ($/image)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input video ($/sec)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input audio ($/sec)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Output text ($/M char)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Output image image ($/image)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.0 Flash Lite",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.0 Flash Lite",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input text ($/M char)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input image ($/image)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input video ($/sec)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input audio ($/sec)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Output text ($/M char)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Grounding with Google Search",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Web Grounding for enterprise",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 1.5 Flash",
     "input_price": "$0.00002 / image $0.00002 / second $0.00001875 / 1k characters $0.000002 / second",
     "output_price": "$0.00002 / image $0.00002 / second $0.00001875 / 1k characters $0.000002 / second"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Tuning*",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 1.5 Pro",
     "input_price": "$0.00032875 / image $0.00032875 / second $0.0003125 / 1k characters $0.00003125 / second",
     "output_price": "$0.00032875 / image $0.00032875 / second $0.0003125 / 1k characters $0.00003125 / second"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Tuning*",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 1.0 Pro",
     "input_price": "$0.0025 / image $0.002 / second $0.000125 / 1k characters",
     "output_price": "$0.0025 / image $0.002 / second $0.000125 / 1k characters"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Grounding with Google Search",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Web Grounding for enterprise",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Grounding with your data",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Imagen 4 Ultra",
     "input_price": "Text prompt",
     "output_price": "Image"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Imagen 4",
     "input_price": "Image",
     "output_price": "Image"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Imagen 4",
     "input_price": "Text prompt",
     "output_price": "Image"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Imagen 4 Fast",
     "input_price": "Text prompt",
     "output_price": "Image"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Imagen 3",
     "input_price": "Text prompt",
     "output_price": "Image"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Imagen 3 Fast",
     "input_price": "Text prompt",
     "output_price": "Image"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Imagen 2, Imagen 1",
     "input_price": "Text prompt",
     "output_price": "Image"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Imagen 2, Imagen 1",
     "input_price": "Image/Text prompt",
     "output_price": "Image"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Imagen 1",
     "input_price": "Image",
     "output_price": "Image"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Imagen 1",
     "input_price": "Subject(s) with text identifier and 4-8 images per subject",
     "output_price": "Fine-tuned model (after training with user provided subjects)"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Imagen",
     "input_price": "Image",
     "output_price": "Text caption"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Imagen",
     "input_price": "Image/Text prompt",
     "output_price": "Text answer"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Imagen",
     "input_price": "1-3 Images of the same product and a text prompt describing desired scene",
     "output_price": "Image"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Veo 3.1",
     "input_price": "Text/Image prompt",
     "output_price": "Video + Audio"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Video + Audio generation",
     "input_price": "Video + Audio",
     "output_price": "4k"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Video generation",
     "input_price": "Video",
     "output_price": "720p, 1080p"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Video generation",
     "input_price": "Video",
     "output_price": "4k"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Veo 3.1 Fast",
     "input_price": "Text/Image prompt",
     "output_price": "Video + Audio"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Video + Audio generation",
     "input_price": "Video + Audio",
     "output_price": "4k"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Video generation",
     "input_price": "Video",
     "output_price": "720p, 1080p"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Video generation",
     "input_price": "Video",
     "output_price": "4k"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Veo 3",
     "input_price": "Text/Image prompt",
     "output_price": "Video + Audio"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Video generation",
     "input_price": "Video",
     "output_price": "720p, 1080p"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Veo 3 Fast",
     "input_price": "Text/Image prompt",
     "output_price": "Video + Audio"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Video generation",
     "input_price": "Video",
     "output_price": "720p, 1080p"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Veo 2",
     "input_price": "Text/Image prompt",
     "output_price": "Video"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Advanced Controls",
     "input_price": "Video",
     "output_price": "720p"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Lyria 3 Pro",
     "input_price": "Text, Image",
     "output_price": "Full song"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Lyria 3",
     "input_price": "Text, Image",
     "output_price": "30 second music clip"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Lyria 2",
     "input_price": "Text prompt",
     "output_price": "Music"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini Embedding",
     "input_price": "Online requests: $0.00015 Batch requests: $0.00012",
     "output_price": "Online requests: $0.00015 Batch requests: $0.00012"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Output",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Embeddings for Text (Excluding Gemini Embedding)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Output",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini Embedding 2 (Unified Multimodal, Preview)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input image ($/image)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input video ($/per frame)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input audio ($/sec)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "multimodalembedding",
     "input_price": "Text",
     "output_price": "Embeddings"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Embeddings for Multimodal: Image",
     "input_price": "Embeddings",
     "output_price": "$0.0001 / image input"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Embeddings for Multimodal: Video Plus",
     "input_price": "Embeddings (up to 15 embeddings per min of video)",
     "output_price": "$0.0020 per second of video"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Embeddings for Multimodal: Video Standard",
     "input_price": "Embeddings (up to 8 embeddings per min of video)",
     "output_price": "$0.0010 per second of video"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Embeddings for Multimodal: Video Essential",
     "input_price": "Embeddings (up to 4 embeddings per min of video)",
     "output_price": "$0.0005 per second of video"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "multilingual-e5-small",
     "input_price": "Online requests: $0.000015 Online requests: No charge Batch requests: $0.0000075 Batch requests: No charge",
     "output_price": "Online requests: $0.000015 Online requests: No charge Batch requests: $0.0000075 Batch requests: No charge"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "multilingual-e5-large",
     "input_price": "Online requests: $0.000025 Online requests: No charge Batch requests: $0.0000125 Batch requests: No charge",
     "output_price": "Online requests: $0.000025 Online requests: No charge Batch requests: $0.0000125 Batch requests: No charge"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Codey for Code Completion",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Output",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "LLM",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "The number of output characters per month",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Translation LLM 002",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "The number of output characters per month",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
+    "company": "Google",
+    "model_name": "Gemini 3.1 Pro",
+    "input_price": "$4.5 (/M Tok/hr)",
+    "output_price": "$4.5 (/M Tok/hr)"
+  },
+  {
+    "date": "2026-03-31",
+    "company": "Google",
+    "model_name": "Gemini 3 Flash",
+    "input_price": "$1 (/M Tok/hr)",
+    "output_price": "$1 (/M Tok/hr)"
+  },
+  {
+    "date": "2026-03-31",
+    "company": "Google",
+    "model_name": "Gemini 3.1 Flash Lite",
+    "input_price": "$1 (/M Tok/hr)",
+    "output_price": "$1 (/M Tok/hr)"
+  },
+  {
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 3 Pro",
     "input_price": "$4.5 (/M Tok/hr)",
     "output_price": "$4.5 (/M Tok/hr)"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Pro",
     "input_price": "$4.5 (/M Tok/hr)",
     "output_price": "$4.5 (/M Tok/hr)"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash",
     "input_price": "$1 (/M Tok/hr)",
     "output_price": "$1 (/M Tok/hr)"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash Lite",
     "input_price": "$1 (/M Tok/hr)",
     "output_price": "$1 (/M Tok/hr)"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.0 Flash",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M Input tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M Input audio tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M Output text tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.0 Flash Lite",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M Input tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M Input audio tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "1M Output text tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.0 Flash",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input text ($/M char)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input image ($/image)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input video ($/sec)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input audio ($/sec)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Output text ($/M char)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.0 Flash Lite",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input text ($/M char)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input image ($/image)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input video ($/sec)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Input audio ($/sec)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Output text ($/M char)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Grounding with Google Search",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Web Grounding for enterprise",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Pro",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini 2.5 Flash Lite",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemma 3 1B IT",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemma 3 4B IT",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemma 3 12B IT",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemma 3 27B IT",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Llama 3.1 8B",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Llama 3.2 1B",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Llama 3.2 3B",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Llama 3.3 70B",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Llama 4 Scout 17B 16E",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Qwen 3 4B",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Qwen 3 8B",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Qwen 3 14B",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Qwen 3 32B",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Translation LLM 002",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Opus 4.6",
     "input_price": "Input: $5.00 Output: $25.00 Batch Input: $2.50 Batch Output: $12.50 5m Cache Write: $6.25 1h Cache Write: $10.00 Cache Hit: $0.50 5m Batch Cache Write: $3.125 1h Batch Cache Write: $5.00 Batch Cache Hit: $0.25",
     "output_price": "Input: $5.00 Output: $25.00 Batch Input: $2.50 Batch Output: $12.50 5m Cache Write: $6.25 1h Cache Write: $10.00 Cache Hit: $0.50 5m Batch Cache Write: $3.125 1h Batch Cache Write: $5.00 Batch Cache Hit: $0.25"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Opus 4.5",
     "input_price": "Input: $5.00 Output: $25.00 Batch Input: $2.50 Batch Output: $12.50 5m Cache Write: $6.25 1h Cache Write: $10.00 Cache Hit: $0.50 5m Batch Cache Write: $3.125 1h Batch Cache Write: $5.00 Batch Cache Hit: $0.25",
     "output_price": "Input: $5.00 Output: $25.00 Batch Input: $2.50 Batch Output: $12.50 5m Cache Write: $6.25 1h Cache Write: $10.00 Cache Hit: $0.50 5m Batch Cache Write: $3.125 1h Batch Cache Write: $5.00 Batch Cache Hit: $0.25"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Sonnet 4.6",
     "input_price": "Input: $3.00 Output: $15.00 Batch Input: $1.50 Batch Output: $7.50 5m Cache Write: $3.75 1h Cache Write: $6.00 Cache Hit: $0.30 5m Batch Cache Write: $1.88 1h Batch Cache Write: $3.00 Batch Cache Hit: $0.15",
     "output_price": "Input: $3.00 Output: $15.00 Batch Input: $1.50 Batch Output: $7.50 5m Cache Write: $3.75 1h Cache Write: $6.00 Cache Hit: $0.30 5m Batch Cache Write: $1.88 1h Batch Cache Write: $3.00 Batch Cache Hit: $0.15"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Sonnet 4.5",
     "input_price": "Input: $3.00 Output: $15.00 Batch Input: $1.50 Batch Output: $7.50 5m Cache Write: $3.75 1h Cache Write: $6.00 Cache Hit: $0.30 5m Batch Cache Write: $1.88 1h Batch Cache Write: $3.00 Batch Cache Hit: $0.15",
     "output_price": "Input: $3.00 Output: $15.00 Batch Input: $1.50 Batch Output: $7.50 5m Cache Write: $3.75 1h Cache Write: $6.00 Cache Hit: $0.30 5m Batch Cache Write: $1.88 1h Batch Cache Write: $3.00 Batch Cache Hit: $0.15"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Haiku 4.5",
     "input_price": "Input: $1.00 Output: $5.00 Batch Input: $0.50 Batch Output: $2.50 5m Cache Write: $1.25 1h Cache Write: $2.00 Cache Hit: $0.10 5m Batch Cache Write: $0.625 1h Batch Cache Write: $1.00 Batch Cache Hit: $0.05",
     "output_price": "Input: $1.00 Output: $5.00 Batch Input: $0.50 Batch Output: $2.50 5m Cache Write: $1.25 1h Cache Write: $2.00 Cache Hit: $0.10 5m Batch Cache Write: $0.625 1h Batch Cache Write: $1.00 Batch Cache Hit: $0.05"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Opus 4.6",
     "input_price": "Input: $5.50 Output: $27.50 Batch Input: $2.75 Batch Output: $13.75 5m Cache Write: $6.875 1h Cache Write: $11.00 Cache Hit: $0.55 5m Batch Cache Write: $3.438 1h Batch Cache Write: $5.50 Batch Cache Hit: $0.275",
     "output_price": "Input: $5.50 Output: $27.50 Batch Input: $2.75 Batch Output: $13.75 5m Cache Write: $6.875 1h Cache Write: $11.00 Cache Hit: $0.55 5m Batch Cache Write: $3.438 1h Batch Cache Write: $5.50 Batch Cache Hit: $0.275"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Opus 4.5",
     "input_price": "Input: $5.50 Output: $27.50 Batch Input: $2.75 Batch Output: $13.75 5m Cache Write: $6.875 1h Cache Write: $11.00 Cache Hit: $0.55 5m Batch Cache Write: $3.438 1h Batch Cache Write: $5.50 Batch Cache Hit: $0.275",
     "output_price": "Input: $5.50 Output: $27.50 Batch Input: $2.75 Batch Output: $13.75 5m Cache Write: $6.875 1h Cache Write: $11.00 Cache Hit: $0.55 5m Batch Cache Write: $3.438 1h Batch Cache Write: $5.50 Batch Cache Hit: $0.275"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Sonnet 4.6",
     "input_price": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17 Input: $6.60 Output: $24.75 5m Cache Write: $8.25 1h Cache Write: $13.20 Cache Hit: $0.66",
     "output_price": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17 Input: $6.60 Output: $24.75 5m Cache Write: $8.25 1h Cache Write: $13.20 Cache Hit: $0.66"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Sonnet 4.5",
     "input_price": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17",
     "output_price": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Haiku 4.5",
     "input_price": "Input: $1.10 Output: $5.50 Batch Input: $0.55 Batch Output: $2.75 5m Cache Write: $1.375 1h Cache Write: $2.20 Cache Write: $1.375 Cache Hit: $0.11 5m Batch Cache Write: $0.688 1h Batch Cache Write: $1.10 Batch Cache Hit: $0.055",
     "output_price": "Input: $1.10 Output: $5.50 Batch Input: $0.55 Batch Output: $2.75 5m Cache Write: $1.375 1h Cache Write: $2.20 Cache Write: $1.375 Cache Hit: $0.11 5m Batch Cache Write: $0.688 1h Batch Cache Write: $1.10 Batch Cache Hit: $0.055"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Opus 4.6",
     "input_price": "Input: $5.50 Output: $27.50 Batch Input: $2.75 Batch Output: $13.75 5m Cache Write: $6.875 1h Cache Write: $11.00 Cache Hit: $0.55 5m Batch Cache Write: $3.438 1h Batch Cache Write: $5.50 Batch Cache Hit: $0.275",
     "output_price": "Input: $5.50 Output: $27.50 Batch Input: $2.75 Batch Output: $13.75 5m Cache Write: $6.875 1h Cache Write: $11.00 Cache Hit: $0.55 5m Batch Cache Write: $3.438 1h Batch Cache Write: $5.50 Batch Cache Hit: $0.275"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Opus 4.5",
     "input_price": "Input: $5.50 Output: $27.50 Batch Input: $2.75 Batch Output: $13.75 5m Cache Write: $6.875 1h Cache Write: $11.00 Cache Hit: $0.55 5m Batch Cache Write: $3.438 1h Batch Cache Write: $5.50 Batch Cache Hit: $0.275",
     "output_price": "Input: $5.50 Output: $27.50 Batch Input: $2.75 Batch Output: $13.75 5m Cache Write: $6.875 1h Cache Write: $11.00 Cache Hit: $0.55 5m Batch Cache Write: $3.438 1h Batch Cache Write: $5.50 Batch Cache Hit: $0.275"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Sonnet 4.6",
     "input_price": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17",
     "output_price": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Sonnet 4.5",
     "input_price": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17",
     "output_price": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Haiku 4.5",
     "input_price": "Input: $1.10 Output: $5.50 Batch Input: $0.55 Batch Output: $2.75 5m Cache Write: $1.375 1h Cache Write: $2.20 Cache Hit: $0.11 5m Batch Cache Write: $0.688 1h Batch Cache Write: $1.10 Batch Cache Hit: $0.055",
     "output_price": "Input: $1.10 Output: $5.50 Batch Input: $0.55 Batch Output: $2.75 5m Cache Write: $1.375 1h Cache Write: $2.20 Cache Hit: $0.11 5m Batch Cache Write: $0.688 1h Batch Cache Write: $1.10 Batch Cache Hit: $0.055"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Opus 4.6",
     "input_price": "Input: $5.50 Output: $27.50 Batch Input: $2.75 Batch Output: $13.75 5m Cache Write: $6.875 1h Cache Write: $11.00 Cache Hit: $0.55 5m Batch Cache Write: $3.438 1h Batch Cache Write: $5.50 Batch Cache Hit: $0.275",
     "output_price": "Input: $5.50 Output: $27.50 Batch Input: $2.75 Batch Output: $13.75 5m Cache Write: $6.875 1h Cache Write: $11.00 Cache Hit: $0.55 5m Batch Cache Write: $3.438 1h Batch Cache Write: $5.50 Batch Cache Hit: $0.275"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Opus 4.5",
     "input_price": "Input: $5.50 Output: $27.50 Batch Input: $2.75 Batch Output: $13.75 5m Cache Write: $6.875 1h Cache Write: $11.00 Cache Hit: $0.55 5m Batch Cache Write: $3.438 1h Batch Cache Write: $5.50 Batch Cache Hit: $0.275",
     "output_price": "Input: $5.50 Output: $27.50 Batch Input: $2.75 Batch Output: $13.75 5m Cache Write: $6.875 1h Cache Write: $11.00 Cache Hit: $0.55 5m Batch Cache Write: $3.438 1h Batch Cache Write: $5.50 Batch Cache Hit: $0.275"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Sonnet 4.6",
     "input_price": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17",
     "output_price": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Sonnet 4.5",
     "input_price": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17",
     "output_price": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Haiku 4.5",
     "input_price": "Input: $1.10 Output: $5.50 Batch Input: $0.55 Batch Output: $2.75 5m Cache Write: $1.375 1h Cache Write: $2.20 Cache Hit: $0.11 5m Batch Cache Write: $0.688 1h Batch Cache Write: $1.10 Batch Cache Hit: $0.055",
     "output_price": "Input: $1.10 Output: $5.50 Batch Input: $0.55 Batch Output: $2.75 5m Cache Write: $1.375 1h Cache Write: $2.20 Cache Hit: $0.11 5m Batch Cache Write: $0.688 1h Batch Cache Write: $1.10 Batch Cache Hit: $0.055"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Opus 4.1",
     "input_price": "Input: $15 Output: $75 Batch Input: $7.50 Batch Output: $37.50 5m Cache Write: $18.75 1h Cache Write: $30 Cache Hit: $1.50 5m Batch Cache Write: $9.375 1h Batch Cache Write: $15.00 Batch Cache Hit: $0.75",
     "output_price": "Input: $15 Output: $75 Batch Input: $7.50 Batch Output: $37.50 5m Cache Write: $18.75 1h Cache Write: $30 Cache Hit: $1.50 5m Batch Cache Write: $9.375 1h Batch Cache Write: $15.00 Batch Cache Hit: $0.75"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Opus 4",
     "input_price": "Input: $15 Output: $75 Batch Input: $7.50 Batch Output: $37.50 5m Cache Write: $18.75 1h Cache Write: $30 Cache Hit: $1.50 5m Batch Cache Write: $9.375 1h Batch Cache Write: $15.00 Batch Cache Hit: $0.75",
     "output_price": "Input: $15 Output: $75 Batch Input: $7.50 Batch Output: $37.50 5m Cache Write: $18.75 1h Cache Write: $30 Cache Hit: $1.50 5m Batch Cache Write: $9.375 1h Batch Cache Write: $15.00 Batch Cache Hit: $0.75"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude Sonnet 4",
     "input_price": "Input: $3 Output: $15 Batch Input: $1.50 Batch Output: $7.50 5m Cache Write: $3.75 1h Cache Write: $6.00 Cache Hit: $0.30 5m Batch Cache Write: $1.875 1h Batch Cache Write: $3.00 Batch Cache Hit: $0.15",
     "output_price": "Input: $3 Output: $15 Batch Input: $1.50 Batch Output: $7.50 5m Cache Write: $3.75 1h Cache Write: $6.00 Cache Hit: $0.30 5m Batch Cache Write: $1.875 1h Batch Cache Write: $3.00 Batch Cache Hit: $0.15"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude 3 Haiku (Deprecated)",
     "input_price": "Input: $0.25 Output: $1.25 5m Cache Write: $0.30 1h Cache Write: $0.50 Cache Hit: $0.03 N/A",
     "output_price": "Input: $0.25 Output: $1.25 5m Cache Write: $0.30 1h Cache Write: $0.50 Cache Hit: $0.03 N/A"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude 3.5 Haiku (Deprecated)",
     "input_price": "Input: $0.80 Output: $4 Batch Input: $0.40 Batch Output: $2 5m Cache Write: $1 1h Cache Write: $1.60 Cache Hit: $0.08 Batch Cache Write: $0.50 Batch Cache Hit: $0.04",
     "output_price": "Input: $0.80 Output: $4 Batch Input: $0.40 Batch Output: $2 5m Cache Write: $1 1h Cache Write: $1.60 Cache Hit: $0.08 Batch Cache Write: $0.50 Batch Cache Hit: $0.04"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Claude 3.7 Sonnet (Deprecated)",
     "input_price": "Input: $3 Output: $15 Batch Input: $1.50 Batch Output: $7.50 Cache Write: $3.75 Cache Hit: $0.30 Batch Cache Write: $1.875 Batch Cache Hit: $0.15",
     "output_price": "Input: $3 Output: $15 Batch Input: $1.50 Batch Output: $7.50 Cache Write: $3.75 Cache Hit: $0.30 Batch Cache Write: $1.875 Batch Cache Hit: $0.15"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "DeepSeek-V3.1",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "DeepSeek-V3.2",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "DeepSeek-R1 (0528)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "DeepSeek-OCR",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "MiniMax-M2",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Kimi-K2-Thinking",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Qwen3-Next-80B-Thinking",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Qwen3-Next-80B-Instruct",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Qwen3-Coder-480B-A35B-Instruct Input: $0.22 / million tokens Output: $1.80 / million tokens Cache Hit: $0.022 / million tokens Batch Input: $0.11 / million tokens Batch Output: $0.90 / million tokens",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Qwen3-235B-A22B-Instruct-2507",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "GLM-4.7",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "GLM-5 *",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "gpt-oss-120b",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "gpt-oss-20b",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Llama 3.1 405B",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Llama 3.3 70B",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Llama 4 Scout",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Llama 4 Maverick",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Mistral OCR (25.05)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Mistral Medium 3",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Mistral Small 3.1 (25.03)",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Codestral 2",
     "input_price": null,
     "output_price": null
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "company": "Google",
     "model_name": "Gemini Deep Research Agent",
     "input_price": null,
