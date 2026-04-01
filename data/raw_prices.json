@@ -2693,7 +2693,7 @@
   {
     "company": "Google",
     "model_name": "Claude Sonnet 4.6",
-    "input_raw": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17       Input: $6.60 Output: $24.75 5m Cache Write: $8.25 1h Cache Write: $13.20 Cache Hit: $0.66",
+    "input_raw": "Input: $3.30 Output: $16.50 Batch Input: $1.65 Batch Output: $8.25 5m Cache Write: $4.13 1h Cache Write: $6.60 Cache Hit: $0.33 5m Batch Cache Write: $2.06 1h Batch Cache Write: $3.30 Batch Cache Hit: $0.17 Input: $6.60 Output: $24.75 5m Cache Write: $8.25 1h Cache Write: $13.20 Cache Hit: $0.66",
     "output_raw": null,
     "extra": {
       "source": "generic-table"
