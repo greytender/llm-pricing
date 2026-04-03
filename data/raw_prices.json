@@ -1945,6 +1945,42 @@
   },
   {
     "company": "Google",
+    "model_name": "Veo 3.1 Lite",
+    "input_raw": "Text/Image prompt",
+    "output_raw": "Video + Audio",
+    "extra": {
+      "source": "generic-table"
+    }
+  },
+  {
+    "company": "Google",
+    "model_name": "Video + Audio generation",
+    "input_raw": "Video + Audio",
+    "output_raw": "1080p",
+    "extra": {
+      "source": "generic-table"
+    }
+  },
+  {
+    "company": "Google",
+    "model_name": "Video generation",
+    "input_raw": "Video",
+    "output_raw": "720p",
+    "extra": {
+      "source": "generic-table"
+    }
+  },
+  {
+    "company": "Google",
+    "model_name": "Video generation",
+    "input_raw": "Video",
+    "output_raw": "1080p",
+    "extra": {
+      "source": "generic-table"
+    }
+  },
+  {
+    "company": "Google",
     "model_name": "Veo 3",
     "input_raw": "Text/Image prompt",
     "output_raw": "Video + Audio",
