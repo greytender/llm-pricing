@@ -2935,6 +2935,33 @@
   },
   {
     "company": "Google",
+    "model_name": "Grok 4.20 Non-Reasoning",
+    "input_raw": null,
+    "output_raw": null,
+    "extra": {
+      "source": "generic-table"
+    }
+  },
+  {
+    "company": "Google",
+    "model_name": "Grok 4.1 Fast Reasoning",
+    "input_raw": null,
+    "output_raw": null,
+    "extra": {
+      "source": "generic-table"
+    }
+  },
+  {
+    "company": "Google",
+    "model_name": "Grok 4.1 Fast Non-Reasoning",
+    "input_raw": null,
+    "output_raw": null,
+    "extra": {
+      "source": "generic-table"
+    }
+  },
+  {
+    "company": "Google",
     "model_name": "DeepSeek-V3.1",
     "input_raw": null,
     "output_raw": null,
