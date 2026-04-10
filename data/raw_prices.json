@@ -1684,6 +1684,15 @@
   },
   {
     "company": "Google",
+    "model_name": "Gemma 4 26B",
+    "input_raw": null,
+    "output_raw": null,
+    "extra": {
+      "source": "generic-table"
+    }
+  },
+  {
+    "company": "Google",
     "model_name": "Gemini 1.5 Flash",
     "input_raw": "$0.00002 / image $0.00002 / second $0.00001875 / 1k characters $0.000002 / second",
     "output_raw": null,
